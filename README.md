@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lordbaldwin1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/lordbaldwin1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lordbaldwin1/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/lordbaldwin1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/lordbaldwin1/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/lordbaldwin1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
