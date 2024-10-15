@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
 | [1923-sentence-similarity-iii](https://github.com/lordbaldwin1/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1944-truncate-sentence](https://github.com/lordbaldwin1/LeetCode/tree/master/1944-truncate-sentence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/lordbaldwin1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/lordbaldwin1/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/lordbaldwin1/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/lordbaldwin1/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1944-truncate-sentence](https://github.com/lordbaldwin1/LeetCode/tree/master/1944-truncate-sentence) |
 ## Trie
 |  |
 | ------- |
