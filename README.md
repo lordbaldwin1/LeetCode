@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lordbaldwin1/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/lordbaldwin1/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lordbaldwin1/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lordbaldwin1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/lordbaldwin1/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/lordbaldwin1/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
