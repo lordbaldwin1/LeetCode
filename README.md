@@ -33,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lordbaldwin1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lordbaldwin1/LeetCode/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lordbaldwin1/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
