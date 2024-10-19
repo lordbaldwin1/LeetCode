@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
 | [1923-sentence-similarity-iii](https://github.com/lordbaldwin1/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/lordbaldwin1/LeetCode/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/lordbaldwin1/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/lordbaldwin1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lordbaldwin1/LeetCode/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/lordbaldwin1/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
