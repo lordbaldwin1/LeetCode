@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lordbaldwin1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lordbaldwin1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/lordbaldwin1/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
 | [1923-sentence-similarity-iii](https://github.com/lordbaldwin1/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/lordbaldwin1/LeetCode/tree/master/1944-truncate-sentence) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lordbaldwin1/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lordbaldwin1/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lordbaldwin1/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
 ## String
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lordbaldwin1/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/lordbaldwin1/LeetCode/tree/master/0169-majority-element) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/lordbaldwin1/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Math
 |  |
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/lordbaldwin1/LeetCode/tree/master/2058-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lordbaldwin1/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
