@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lordbaldwin1/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/lordbaldwin1/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/lordbaldwin1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lordbaldwin1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lordbaldwin1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lordbaldwin1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/lordbaldwin1/LeetCode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lordbaldwin1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/lordbaldwin1/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1923-sentence-similarity-iii](https://github.com/lordbaldwin1/LeetCode/tree/master/1923-sentence-similarity-iii) |
 ## Heap (Priority Queue)
