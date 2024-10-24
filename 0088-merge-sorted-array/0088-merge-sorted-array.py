@@ -3,12 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        # n is number of elements in nums2
         k = m
-        for i in nums2:
-            nums1[k] = i
+        i = 0
+        while k < m + n:
+            nums1[k] = nums2[i]
             k += 1
-        nums1.sort()
-        return
-
-
+            i += 1
+        nums1.sort()      
