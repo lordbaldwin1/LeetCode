@@ -1,13 +1,18 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        dictionary = {}
+        d = {}
+        maj = 0
+        count = 0
 
-        majority = 0
-        temp = 0
         for i in nums:
-            dictionary[i] = 1 + dictionary.get(i, 0)
-            if dictionary[i] > majority:
-                temp = i
-                majority = dictionary[i]
+            if i in d:
+                d[i] += 1
+            else:
+                d[i] = 1
         
-        return temp
+        for i in nums:
+            if d[i] > count:
+                count = d[i]
+                maj = i
+        return maj
+
