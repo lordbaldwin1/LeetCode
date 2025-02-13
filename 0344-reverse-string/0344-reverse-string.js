@@ -3,17 +3,16 @@
  * @return {void} Do not return anything, modify s in-place instead.
  */
 var reverseString = function(s) {
-    let hold = '';
-    let l = 0;
-    let r = s.length - 1;
+    let temp = '';
 
-    while (l < r) {
-        hold = s[l];
-        s[l] = s[r];
-        s[r] = hold;
-        l++;
-        r--;
+    let i = 0;
+    let k = s.length - 1;
+
+    while (i < k) {
+        s[temp] = s[i];
+        s[i] = s[k];
+        s[k] = s[temp];
+        i++;
+        k--;
     }
-    
-    return;
 };
