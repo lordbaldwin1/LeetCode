@@ -3,30 +3,31 @@
  * @return {number[][]}
  */
 var threeSum = function(nums) {
-    let result = [];
+    // O(log n)
     nums.sort((a, b) => a - b);
+    let res = [];
 
     for (let i = 0; i < nums.length; i++) {
-        if (i > 0 && nums[i] === nums[i - 1]) {
-            continue;
-        }
+        if (nums[i] > 0) break;
+        if (i > 0 && nums[i] === nums[i - 1]) continue;
+
         let l = i + 1;
         let r = nums.length - 1;
         while (l < r) {
-            let total = nums[i] + nums[l] + nums[r];
-            if (total === 0) {
-                result.push([nums[i], nums[l], nums[r]]);
+            let tripletSum = nums[i] + nums[l] + nums[r];
+            if (tripletSum < 0) {
+                l++;
+            } else if (tripletSum > 0) {
+                r--;
+            } else {
+                res.push([nums[i], nums[l], nums[r]]);
                 l++;
 
-                if (nums[l] === nums[l - 1] && l < r) {
+                while (nums[l] === nums[l - 1] && l < r) {
                     l++;
                 }
-            } else if (total < 0) {
-                l++;
-            } else {
-                r--;
             }
         }
     }
-    return result;
+    return res;
 };
