@@ -19,12 +19,12 @@
 - return diff's index and current index
 
 ## Group Anagrams
-- *First Method* Sorting
+- **First Method** Sorting
 - hash map
 - iterate through array of strings
 - sort, push original string to map at sorted index
 - return Object.values(map)
-- *Optimal Method* Char Count
+- **Optimal Method** Char Count
 - hash map
 - iterate through array of strings
 - make array new array len 26 fill 0
