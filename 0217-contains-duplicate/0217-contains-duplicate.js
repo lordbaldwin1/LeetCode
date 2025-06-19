@@ -4,16 +4,12 @@
  */
 var containsDuplicate = function(nums) {
     let map = {};
-
-    for (let i = 0; i < nums.length; i++) {
-        if (!map[nums[i]]) {
-            map[nums[i]] = 1;
-        } else {
-            map[nums[i]] += 1;
-        }
-        if(map[nums[i]] > 1) {
+    
+    for (const num of nums) {
+        if (map[num] !== undefined) {
             return true;
         }
+        map[num] = 1;
     }
     return false;
 };
