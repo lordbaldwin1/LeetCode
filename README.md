@@ -32,3 +32,17 @@
 - so same thing, joined char count array is key
 - push og string to map
 - return Object.values(map)
+
+  ## Top K Frequent Elements
+  - **Easy Method** Sorting w/ hash map
+  - Make hash map with count
+  - Turn map into array where each element is array with num and count
+  - Sort array by count
+  - return array of top k elements
+ 
+  ## Longest Consecutive Sequence
+  - Set
+  - iterate set
+  - if no num - 1, thats a set
+  - continue while(num[n + streak))
+  - keep track of longest
