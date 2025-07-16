@@ -46,3 +46,15 @@
   - if no num - 1, thats a set
   - continue while(num[n + streak))
   - keep track of longest
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lordbaldwin1/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lordbaldwin1/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
